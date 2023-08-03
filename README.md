@@ -1,1 +1,1 @@
-# Prodigy
+# Prodigy data science internship task
